@@ -1,0 +1,3 @@
+Requisitos del producto A2
+A2 requiere autenticación SSO corporativo y MFA obligatorio.
+El volumen mínimo de licencias es 50 usuarios activos.
